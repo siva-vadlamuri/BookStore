@@ -28,7 +28,6 @@ background-color: darkblue;
           <a href="#" class="brand-logo">Chandu Book Store</a>
           <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
           <ul id="nav-mobile" class="right hide-on-med-and-down">
-            <li><a href="#"></a></li>
             <li><a href="#">Books</a></li>
             <li><a href="#">Blog</a></li>
             <li><a href="/loginMain">Login</a></li>

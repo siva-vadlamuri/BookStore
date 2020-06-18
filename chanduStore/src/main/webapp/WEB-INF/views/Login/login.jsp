@@ -10,7 +10,15 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
 
 <style>
-
+.nav-wrapper{
+background-color: darkblue;
+}
+.form-input{
+width: 300px;
+line-height: 20px;
+margin-left: 200px;
+margin-top: 100px;
+}
 
 </style>
 
@@ -38,11 +46,11 @@
 <section>
 <div class="loginPage form-group ">
 	
-		<div>
+		<div class="container form-input border 2 jumbotron">
          <form action="login" method="POST" >
 
 <h3 style="color: red;" >${Invalid }</h3>
-<input type="text" name="email" placeholder="UserId" >
+<input type="email" name="email" placeholder="Email Id" >
 <input type="password" name="password" placeholder="password">
 <input type="password" name="password2" placeholder="conform password">
 

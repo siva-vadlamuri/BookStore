@@ -8,5 +8,6 @@
 </head>
 <body>
 welcome
+${ creditials }
 </body>
 </html>

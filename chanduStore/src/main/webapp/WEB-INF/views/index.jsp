@@ -60,7 +60,7 @@ text-align: centre;
 		<div class="col-lg-6">
          <form action="registerUser" method="POST" >
 
-<div class="form-input border jambotron">
+<div class="form-input border jumbotron">
      <input type="text" name="firstName" placeholder="Enter first name" >
      <input type="text" name="lastName" placeholder="Enter last name" >
      <input type="email" name="email" placeholder="Enter Email Id" >
